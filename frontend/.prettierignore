@@ -1,0 +1,6 @@
+base
+node_modules
+dist
+wailsjs
+package-lock.json
+build
